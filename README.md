@@ -34,6 +34,9 @@
 * Natural Language Classifier
   * Video: https://www.youtube.com/watch?v=h1ZiUIvYdD8&feature=youtu.be
   * Demo: https://natural-language-classifier-demo.mybluemix.net/
+* Watson Natural Language Translator 
+  * Video: https://www.youtube.com/watch?v=bYtVaQxJ994 
+  * Demo: https://language-translator-demo.mybluemix.net/?cm_mc_uid=36152158407015012554435&cm_mc_sid_50200000=1509816451&cm_mc_sid_52640000=1509816451
   
 ## Workshop 2 - Hands-on Labs
 * 3:30 - 4:30 
