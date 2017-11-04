@@ -36,7 +36,9 @@
   * Demo: https://language-translator-demo.mybluemix.net/?cm_mc_uid=36152158407015012554435&cm_mc_sid_50200000=1509816451&cm_mc_sid_52640000=1509816451
   
 ## Workshop 2 - Hands-on Labs
+
 * 3:30 - 4:30 
+  * Set-up node red instructions: https://developer.ibm.com/courses/all/node-red-basics-bots/
   * Node Red Tutorial Watson Natural Language Understanding Lab: 
     https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-
     understanding.pdf
