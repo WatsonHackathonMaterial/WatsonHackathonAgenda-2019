@@ -25,9 +25,6 @@
 * Tone Analyzer 
   * Video: https://www.youtube.com/watch?v=wUb--6FPBik
   * Demo: https://tone-analyzer-demo.mybluemix.net/
-* Retrieve and Rank
-  * Video: https://www.youtube.com/watch?v=pupGatYlfqQ
-  * Demo: http://retrieve-and-rank-demo.mybluemix.net/
 * Watson Personality Insights
   * Video: https://www.youtube.com/watch?v=YdVVLWv3Fwo
   * Demo: https://personality-insights-livedemo.mybluemix.net/
