@@ -1,4 +1,4 @@
-# HACKATHON Prep
+# Hackathon Watson Prep
 2 hour agenda for hackathon training using Watson Developer Cloud APIs and IBM Cloud split into an Intro to  Watson (workshop 1) and hands-on labs (workshop 2). 
 
 ## Training Agenda
