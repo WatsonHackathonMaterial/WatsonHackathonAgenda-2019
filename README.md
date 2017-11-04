@@ -6,44 +6,35 @@
 ## Workshop 1 - Intro to Watson Developer Cloud APIs
 * 2:30-3:30 
   * Visual Recognition
-  * Video: https://youtu.be/F6oaA6fauzY
+  * Video: https://www.youtube.com/watch?v=n3_oGnXkMAE
   * Demo: https://visual-recognition-demo.mybluemix.net/
   * Overview: https://www.ibm.com/watson/developercloud/visual-recognition.html
 * Watson Natural Language Understanding
   * Video: https://www.youtube.com/watch?v=MB4ynlq52C4
   * Demo: https://natural-language-understanding-demo.mybluemix.net/ 
-* 2:50-3:00
-  * Watson Speech-to-Text/Text-to-Speech & Language Translation 
+* Watson Speech-to-Text/Text-to-Speech & Language Translation 
   * Demo: https://text-to-speech-demo.mybluemix.net/
   * Demo: https://speech-to-text-demo.mybluemix.net/
-* 3:00-3:10
-  * Watson Discovery
+* Watson Discovery
   * Video: https://youtu.be/9ks-cEG6KPs
   * Demo: https://discovery-news-demo.mybluemix.net/
-* 3:10-3:20
-  * Conversation 
-  * Video: https://www.youtube.com/watch?v=1rTl1WEbg5U&feature=youtu.be
+* Conversation 
+  * Video: https://www.youtube.com/watch?v=A96nLYSMltA&list=PLZDyxLlNKRY-YOxeg5Hv0IMgQfmKp8ZN4
   * Demo: https://conversation-demo.mybluemix.net/
-  * Overview: https://github.com/Bluemix-Watson-Labs/conversation-api-overview 
-* 3:20-3:30
-  * Tone Analyzer 
+  * Extra FYI Watson Discovery + Watson Conversation: https://www.youtube.com/watch?v=SasXUqBE-38
+* Tone Analyzer 
   * Video: https://www.youtube.com/watch?v=wUb--6FPBik
   * Demo: https://tone-analyzer-demo.mybluemix.net/
-* 3:4
-  * Retrieve and Rank
+* Retrieve and Rank
   * Video: https://www.youtube.com/watch?v=pupGatYlfqQ
   * Demo: http://retrieve-and-rank-demo.mybluemix.net/
-  * Overview: https://medium.com/@helenflam/retrieve-rank-492f6178dfcd
-* 3:50-4:00 
-  * Watson Personality Insights
+* Watson Personality Insights
   * Video: https://www.youtube.com/watch?v=YdVVLWv3Fwo
   * Demo: https://personality-insights-livedemo.mybluemix.net/
-  * Overview: https://medium.com/@helenflam/personality-insights-node-red-app-a20b84d95b24
-* 4:00-4:10 
-  * Natural Language Classifier
+* Natural Language Classifier
   * Video: https://www.youtube.com/watch?v=h1ZiUIvYdD8&feature=youtu.be
   * Demo: https://natural-language-classifier-demo.mybluemix.net/
-  * Overview: https://github.com/Bluemix-Watson-Labs/Natural-Language-Classifier-Lab
+  
 ## Workshop 2 - Hands-on Labs
 * 3:30 - 4:30 
   * Node Red Tutorial Watson Natural Language Understanding Lab: 
