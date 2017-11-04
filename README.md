@@ -56,7 +56,7 @@
     Part (i) https://medium.com/ibm-watson/create-your-slack-bot-with-conversation-api-node-red-a5bf82aad24d
     Part (ii) https://www.ibm.com/cloud/garage/tutorials/watson_conversation_support/
 
-# Important Links - sample code and tutorials
+## Important Links - sample code and tutorials
 * https://github.com/IBM-Bluemix
 * https://github.com/watson-developer-cloud
 * https://medium.com/ibm-watson-developer-cloud
@@ -67,7 +67,7 @@
 * Watson Developer Cloud Swagger docs: https://watson-api-explorer.mybluemix.net/
 * Watson Docs: https://www.ibm.com/watson/developercloud/doc/index.html
 
-# To sign up for IBM Cloud with your college email address; get access to 12-months access with more memory and services than the regular free tier 
+## To sign up for IBM Cloud with your college email address; get access to 12-months access with more memory and services than the regular free tier 
 * https://onthehub.com/ibm/ 
 
 
