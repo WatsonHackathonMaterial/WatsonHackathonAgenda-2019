@@ -1,6 +1,3 @@
-# 11-4-2017
-Links for a college hackathon.
-
 # HACKATHON Prep
 2 hour agenda for hackathon training using Watson Developer Cloud APIs and IBM Cloud split into an Intro to  Watson (workshop 1) and hands-on labs (workshop 2). 
 
