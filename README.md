@@ -39,9 +39,7 @@
 
 * 3:30 - 4:30 
   * Set-up node red instructions: https://developer.ibm.com/courses/all/node-red-basics-bots/
-  * Node Red Tutorial Watson Natural Language Understanding Lab: 
-    https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-
-    understanding.pdf
+  * Node Red Tutorial Watson Natural Language Understanding Lab: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
     OR 
   * Visual Recognition Lab: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69
     OR 
