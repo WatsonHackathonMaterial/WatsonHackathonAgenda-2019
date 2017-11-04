@@ -67,7 +67,7 @@
 * Watson Developer Cloud Swagger docs: https://watson-api-explorer.mybluemix.net/
 * Watson Docs: https://www.ibm.com/watson/developercloud/doc/index.html
 
-# To sign up for Bluemix and get access to 12-months access with more memory and services than the regular free tier
+# To sign up for IBM Cloud with your college email address; get access to 12-months access with more memory and services than the regular free tier 
 * https://onthehub.com/ibm/ 
 
 
