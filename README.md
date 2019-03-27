@@ -34,6 +34,23 @@
 * Watson Natural Language Translator 
   * Video: https://www.youtube.com/watch?v=bYtVaQxJ994 
   * Demo: https://language-translator-demo.mybluemix.net/?cm_mc_uid=36152158407015012554435&cm_mc_sid_50200000=1509816451&cm_mc_sid_52640000=1509816451
+* Watson Compare and Comply 
+  * Video: https://console.bluemix.net/apidocs/compare-comply
+  * Documentation: https://cloud.ibm.com/docs/services/compare-comply?topic=compare-comply-using_tool#using_tool
+  
+ ## Other Watson Services
+* Watson Knowledge Studio 
+  * Video: https://www.youtube.com/watch?v=r2xYHW0iyZM
+  * Documentation: https://cloud.ibm.com/docs/services/knowledge-studio?topic=knowledge-studio-wks_overview_full#wks_overview_full
+* Watson Open Scale
+  * Video: https://www.youtube.com/watch?v=9R4Xd2UiNko
+  * Documentation: https://console.bluemix.net/apidocs/ai-openscale
+* Watson Studio
+  * Video: https://www.youtube.com/watch?v=1HjzkLRdP5k
+  * Documentation: https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=analytics
+* PowerAI 
+  * Video: https://www.youtube.com/watch?v=WsoqUtiy1Yw
+  * Documentation: https://cloud.ibm.com/docs/services/PowerAI-IBM/index.html#getting-started
   
 ## Workshop 2 - Hands-on Labs
 
