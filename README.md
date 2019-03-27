@@ -61,10 +61,7 @@
   * Node Red Tutorial Watson Natural Language Understanding Lab: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
     OR 
   * Visual Recognition Lab: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69
-    OR 
-  * Build a Slack Conversation Bot Lab: 
-    Part (i) https://medium.com/ibm-watson/create-your-slack-bot-with-conversation-api-node-red-a5bf82aad24d
-    Part (ii) https://www.ibm.com/cloud/garage/tutorials/watson_conversation_support/
+
 
 ## Important Links - sample code and tutorials
 * https://github.com/IBM-Bluemix
