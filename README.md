@@ -12,9 +12,12 @@
 * Watson Natural Language Understanding
   * Video: https://www.youtube.com/watch?v=MB4ynlq52C4
   * Demo: https://natural-language-understanding-demo.mybluemix.net/ 
-* Watson Speech-to-Text/Text-to-Speech & Language Translation 
+* Watson Speech-to-Text/Text-to-Speech
   * Demo: https://text-to-speech-demo.mybluemix.net/
   * Demo: https://speech-to-text-demo.mybluemix.net/
+* Watson Language Translation 
+  * Video: https://www.youtube.com/watch?v=bYtVaQxJ994
+  * Demo: https://language-translator-demo.ng.bluemix.net/
 * Watson Discovery
   * Video: https://youtu.be/9ks-cEG6KPs
   * Demo: https://discovery-news-demo.mybluemix.net/
@@ -74,8 +77,6 @@
 * Watson Developer Cloud Swagger docs: https://watson-api-explorer.mybluemix.net/
 * Watson Docs: https://www.ibm.com/watson/developercloud/doc/index.html
 
-## To sign up for IBM Cloud with your college email address; get access to 12-months access with more memory and services than the regular free tier 
-* https://onthehub.com/ibm/ 
 
 
 
