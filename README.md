@@ -18,10 +18,9 @@
 * Watson Discovery
   * Video: https://youtu.be/9ks-cEG6KPs
   * Demo: https://discovery-news-demo.mybluemix.net/
-* Conversation 
-  * Video: https://www.youtube.com/watch?v=A96nLYSMltA&list=PLZDyxLlNKRY-YOxeg5Hv0IMgQfmKp8ZN4
-  * Demo: https://conversation-demo.mybluemix.net/
-  * Extra FYI Watson Discovery + Watson Conversation: https://www.youtube.com/watch?v=SasXUqBE-38
+* Watson Assistant 
+  * Video: https://www.youtube.com/watch?v=xdGaynxnt4M&t=4s
+  * Demo: https://watson-assistant-demo.ng.bluemix.net/
 * Tone Analyzer 
   * Video: https://www.youtube.com/watch?v=wUb--6FPBik
   * Demo: https://tone-analyzer-demo.mybluemix.net/
