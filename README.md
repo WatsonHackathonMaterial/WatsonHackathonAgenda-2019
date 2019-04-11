@@ -53,20 +53,25 @@
 * PowerAI 
   * Video: https://www.youtube.com/watch?v=WsoqUtiy1Yw
   * Documentation: https://cloud.ibm.com/docs/services/PowerAI-IBM/index.html#getting-started
+* Watson Machine Learning
+  * Video: https://www.youtube.com/watch?v=1A-HZwK8u0w
+  * Documentation: https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/ml-overview.html
   
 ## Workshop 2 - Hands-on Labs
 
 * 3:30 - 4:30 
+  * Sign up for IBM Cloud here: https://cloud.ibm.com/login
+* Labs
   * Set-up node red instructions: https://developer.ibm.com/courses/all/node-red-basics-bots/
   * Node Red Tutorial Watson Natural Language Understanding Lab: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
     OR 
   * Visual Recognition Lab: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69
 
-
 ## Important Links - sample code and tutorials
+* https://developer.ibm.com/patterns/category/artificial-intelligence/?fa=date%3ADESC&fb=
+* https://medium.com/ibm-watson-developer-cloud
 * https://github.com/IBM-Cloud
 * https://github.com/watson-developer-cloud
-* https://medium.com/ibm-watson-developer-cloud
 * Tutorials: https://github.com/Bluemix-Watson-Labs/Agenda-WDC-April-2017
 * Watson Cognitive Claims Accelerator: https://watsonaccelerators.mybluemix.net/ibm/accelerator/claims 
   * Watson Cognitive Claims Accelerator - requires Bluemix ID. Scroll down to "All Accelerators" then click A to Z and find "Cognitive Claims"
