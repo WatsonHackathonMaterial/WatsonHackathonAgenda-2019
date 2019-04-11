@@ -79,6 +79,9 @@
 * Watson Developer Cloud Swagger docs: https://watson-api-explorer.mybluemix.net/
 * Watson Docs: https://www.ibm.com/watson/developercloud/doc/index.html
 
+## Contact Info 
+* Helen.lam@ibm.com | @helennnsays
+
 
 
 
