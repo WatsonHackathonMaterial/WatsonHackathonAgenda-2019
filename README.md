@@ -64,7 +64,7 @@
 
 
 ## Important Links - sample code and tutorials
-* https://github.com/IBM-Bluemix
+* https://github.com/IBM-Cloud
 * https://github.com/watson-developer-cloud
 * https://medium.com/ibm-watson-developer-cloud
 * Tutorials: https://github.com/Bluemix-Watson-Labs/Agenda-WDC-April-2017
