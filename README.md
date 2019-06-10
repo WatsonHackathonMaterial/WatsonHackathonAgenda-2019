@@ -1,5 +1,5 @@
 # Hackathon Watson Prep
-2 hour agenda for hackathon training using Watson Developer Cloud APIs and IBM Cloud split into an Intro to  Watson (workshop 1) and hands-on labs (workshop 2). 
+Agenda for hackathon training using Watson Developer Cloud APIs and IBM Cloud. 
 
 ## Training Agenda
 
@@ -40,8 +40,8 @@
   * Video: https://console.bluemix.net/apidocs/compare-comply
   * Documentation: https://cloud.ibm.com/docs/services/compare-comply?topic=compare-comply-using_tool#using_tool
   
- ## Other Watson Services
-* Watson Knowledge Studio 
+ ## Other Watson Products
+* Watson Knowledge Studio - Build a model in the language of your own domain 
   * Video: https://www.youtube.com/watch?v=r2xYHW0iyZM
   * Documentation: https://cloud.ibm.com/docs/services/knowledge-studio?topic=knowledge-studio-wks_overview_full#wks_overview_full
 * Watson Open Scale
@@ -65,23 +65,19 @@
   * Set-up node red instructions: https://developer.ibm.com/courses/all/node-red-basics-bots/
   * Node Red Tutorial Watson Natural Language Understanding Lab: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
     OR 
-  * Visual Recognition Lab: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69
+  * Visual Recognition Lab with Node Red: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69
+    OR 
+  * Second option for Visual Recognition API, train your own custom image classification model using Watson Studio: https://github.com/IBM/drones-iot-visual-recognition
 
 ## Important Links - sample code and tutorials
-* https://developer.ibm.com/patterns/category/artificial-intelligence/?fa=date%3ADESC&fb=
-* https://medium.com/ibm-watson-developer-cloud
-* https://github.com/IBM-Cloud
-* https://github.com/watson-developer-cloud
-* Tutorials: https://github.com/Bluemix-Watson-Labs/Agenda-WDC-April-2017
-* Watson Cognitive Claims Accelerator: https://watsonaccelerators.mybluemix.net/ibm/accelerator/claims 
-  * Watson Cognitive Claims Accelerator - requires Bluemix ID. Scroll down to "All Accelerators" then click A to Z and find "Cognitive Claims"
-* Watson Developer Cloud SDKs: https://www.ibm.com/watson/developer-resources/
-* Watson Developer Cloud Swagger docs: https://watson-api-explorer.mybluemix.net/
-* Watson Docs: https://www.ibm.com/watson/developercloud/doc/index.html
+* A.I. Code Patterns: https://developer.ibm.com/patterns/category/artificial-intelligence/?fa=date%3ADESC&fb=
+* Watson tutorials, & example applications: https://medium.com/ibm-watson-developer-cloud
+* Watson Starter Kits: https://cloud.ibm.com/developer/watson/starter-kits
+* Watson Documentation: https://www.ibm.com/watson/developercloud/doc/index.html
 
 ## Contact Info 
 * Helen.lam@ibm.com | @helennnsays
-* jody.burks@ibm.com | @JodyBurksPhD 
+
 
 
 
