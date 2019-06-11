@@ -1,4 +1,4 @@
-# Hackathon Watson Prep
+# Hackathon Prep
 Agenda for hackathon training using Watson Developer Cloud APIs and IBM Cloud. 
 
 ## Training Agenda
