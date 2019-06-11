@@ -74,6 +74,7 @@ Agenda for hackathon training using Watson Developer Cloud APIs and IBM Cloud.
 * Watson tutorials, & example applications: https://medium.com/ibm-watson-developer-cloud
 * Watson Starter Kits: https://cloud.ibm.com/developer/watson/starter-kits
 * Watson Documentation: https://www.ibm.com/watson/developercloud/doc/index.html
+* Free online courses: https://cognitiveclass.ai/
 
 ## Contact Info 
 * Helen.lam@ibm.com | @helennnsays
