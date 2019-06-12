@@ -76,6 +76,9 @@ Agenda for hackathon training using Watson Developer Cloud APIs and IBM Cloud.
 * Watson Documentation: https://www.ibm.com/watson/developercloud/doc/index.html
 * Free online courses: https://cognitiveclass.ai/
 
+## Blockchain Links 
+* https://developer.ibm.com/technologies/blockchain/
+
 ## Contact Info 
 * Helen.lam@ibm.com | @helennnsays
 
