@@ -62,20 +62,20 @@ Agenda for hackathon training using Watson Developer Cloud APIs and IBM Cloud.
     OR 
   * Second option for Visual Recognition API, train your own custom image classification model using Watson Studio: https://github.com/IBM/drones-iot-visual-recognition
 
-## Important Links - sample code and tutorials
+## Important Links - Watson sample code and tutorials
 * A.I. Code Patterns: https://developer.ibm.com/patterns/category/artificial-intelligence/?fa=date%3ADESC&fb=
 * Watson tutorials, & example applications: https://medium.com/ibm-watson-developer-cloud
 * Watson Starter Kits: https://cloud.ibm.com/developer/watson/starter-kits
 * Watson Documentation: https://www.ibm.com/watson/developercloud/doc/index.html
 * Free online courses: https://cognitiveclass.ai/
 
-## Cloud Deployment Options
+## Cloud Deployment Options - Kubernetes and Cloud Foundry
 
-* 1) Install CLI [here] (https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli)
-* 2) Cloud Foundry [Node JS docs](https://cloud.ibm.com/docs/runtimes/nodejs?topic=Nodejs-getting-started#getting-started), [Java with Liberty](https://cloud.ibm.com/docs/runtimes/liberty?topic=liberty-getting-started#getting-started), [Python](https://cloud.ibm.com/docs/runtimes/python?topic=Python-getting_started#getting_started), [Go](https://cloud.ibm.com/docs/runtimes/go/getting-started.html#getting-started), [Swift](https://cloud.ibm.com/catalog/starters/runtime-for-swift), & [Ruby-on-Rails](https://cloud.ibm.com/docs/runtimes/ruby?topic=Ruby-getting_started#getting_started)
+1. Install CLI [here] (https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli)
+2. Cloud Foundry [Node JS docs](https://cloud.ibm.com/docs/runtimes/nodejs?topic=Nodejs-getting-started#getting-started), [Java with Liberty](https://cloud.ibm.com/docs/runtimes/liberty?topic=liberty-getting-started#getting-started), [Python](https://cloud.ibm.com/docs/runtimes/python?topic=Python-getting_started#getting_started), [Go](https://cloud.ibm.com/docs/runtimes/go/getting-started.html#getting-started), [Swift](https://cloud.ibm.com/catalog/starters/runtime-for-swift), & [Ruby-on-Rails](https://cloud.ibm.com/docs/runtimes/ruby?topic=Ruby-getting_started#getting_started)
 Note: In addition, Tomcat, .net, and PHP runtime supported and can find documentation [here](https://cloud.ibm.com/catalog?search=cloud%20foundry)
-* 3) Kubernetes documentation 101 [here](https://github.com/IBM/kube101/tree/master/workshop)
-* Extra FYI, Kubernetes vs. Cloud Foundry: https://developer.ibm.com/blogs/game-of-cloud-technologies-kubernetes-vs-cloud-foundry/
+3. OR use Kubernetes to deploy if you can't find your runtime, Kube 101 [here](https://github.com/IBM/kube101/tree/master/workshop)
+Extra FYI, Kubernetes vs. Cloud Foundry: https://developer.ibm.com/blogs/game-of-cloud-technologies-kubernetes-vs-cloud-foundry/
 
 ## Contact Info 
 * Helen.lam@ibm.com | @helennnsays
