@@ -80,6 +80,9 @@ Note: In addition, Tomcat, .net, and PHP runtime supported and can find document
 
 ## Contact Info 
 * Helen.lam@ibm.com | @helennnsays
+* jody.burks@ibm.com | @jodyburksphd
+* lijing@us.ibm.com 
+* david.okun@ibm.com | @dokun24
 
 
 
