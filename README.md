@@ -51,7 +51,7 @@ Agenda for hackathon training using Watson Developer Cloud APIs and IBM Cloud.
   * Video: https://www.youtube.com/watch?v=1A-HZwK8u0w
   * Documentation: https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/ml-overview.html
   
-## Workshop 2 - Hands-on Labs
+## Workshop 2 - Hands-on Labs for Watson Visual Recognition and Natural Language Understanding
 
 * Sign up for IBM Cloud here: https://cloud.ibm.com/login
 * Labs
