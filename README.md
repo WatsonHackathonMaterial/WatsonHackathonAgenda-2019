@@ -44,15 +44,9 @@ Agenda for hackathon training using Watson Developer Cloud APIs and IBM Cloud.
 * Watson Knowledge Studio - Build a model in the language of your own domain 
   * Video: https://www.youtube.com/watch?v=r2xYHW0iyZM
   * Documentation: https://cloud.ibm.com/docs/services/knowledge-studio?topic=knowledge-studio-wks_overview_full#wks_overview_full
-* Watson Open Scale
-  * Video: https://www.youtube.com/watch?v=9R4Xd2UiNko
-  * Documentation: https://console.bluemix.net/apidocs/ai-openscale
 * Watson Studio
   * Video: https://www.youtube.com/watch?v=1HjzkLRdP5k
   * Documentation: https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=analytics
-* PowerAI 
-  * Video: https://www.youtube.com/watch?v=WsoqUtiy1Yw
-  * Documentation: https://cloud.ibm.com/docs/services/PowerAI-IBM/index.html#getting-started
 * Watson Machine Learning
   * Video: https://www.youtube.com/watch?v=1A-HZwK8u0w
   * Documentation: https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/ml-overview.html
@@ -75,9 +69,6 @@ Agenda for hackathon training using Watson Developer Cloud APIs and IBM Cloud.
 * Watson Starter Kits: https://cloud.ibm.com/developer/watson/starter-kits
 * Watson Documentation: https://www.ibm.com/watson/developercloud/doc/index.html
 * Free online courses: https://cognitiveclass.ai/
-
-## Blockchain Links 
-* https://developer.ibm.com/technologies/blockchain/
 
 ## Contact Info 
 * Helen.lam@ibm.com | @helennnsays
