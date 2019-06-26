@@ -78,6 +78,12 @@ Note: In addition, Tomcat, .net, and PHP runtime supported and can find document
 
 4. EXTRA FYI, Kubernetes vs. Cloud Foundry: https://developer.ibm.com/blogs/game-of-cloud-technologies-kubernetes-vs-cloud-foundry/
 
+## Blockchain 
+
+* Blockchain [overview](https://www.ibm.com/blockchain)
+* Blockchain [documentation](https://cloud.ibm.com/developer/blockchain/documentation)
+* Blockchain code patterns [here](https://developer.ibm.com/patterns/category/blockchain/?fa=date%3ADESC&fb=)
+
 ## Contact Info 
 * Helen.lam@ibm.com | @helennnsays | NJ 
 * jody.burks@ibm.com | @jodyburksphd | NJ 
