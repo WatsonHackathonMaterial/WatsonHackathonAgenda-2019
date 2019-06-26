@@ -79,10 +79,11 @@ Note: In addition, Tomcat, .net, and PHP runtime supported and can find document
 4. EXTRA FYI, Kubernetes vs. Cloud Foundry: https://developer.ibm.com/blogs/game-of-cloud-technologies-kubernetes-vs-cloud-foundry/
 
 ## Contact Info 
-* Helen.lam@ibm.com | @helennnsays
-* jody.burks@ibm.com | @jodyburksphd
-* lijing@us.ibm.com 
-* david.okun@ibm.com | @dokun24
+* Helen.lam@ibm.com | @helennnsays | NJ 
+* jody.burks@ibm.com | @jodyburksphd | NJ 
+* cthogan@us.ibm.com | NJ
+* lijing@us.ibm.com | Atlanta
+* david.okun@ibm.com | @dokun24 | Atlanta
 
 
 
