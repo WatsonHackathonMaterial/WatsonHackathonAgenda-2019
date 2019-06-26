@@ -82,6 +82,7 @@ Note: In addition, Tomcat, .net, and PHP runtime supported and can find document
 * Helen.lam@ibm.com | @helennnsays | NJ 
 * jody.burks@ibm.com | @jodyburksphd | NJ 
 * cthogan@us.ibm.com | NJ
+* mebishop@us.ibm.com | NJ
 * lijing@us.ibm.com | Atlanta
 * david.okun@ibm.com | @dokun24 | Atlanta
 
