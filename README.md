@@ -51,12 +51,15 @@ Agenda for hackathon training using Watson Developer Cloud APIs and IBM Cloud.
 
 * Sign up for IBM Cloud here: https://cloud.ibm.com/login
 * Labs
-  * Set-up node red instructions: https://developer.ibm.com/courses/all/node-red-basics-bots/
+  * Set-up node red instructions: https://nodered.org/docs/getting-started/ibmcloud#boilerplate-application
   * Node Red Tutorial Watson Natural Language Understanding Lab: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
     OR 
   * Visual Recognition Lab with Node Red: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69
     OR 
   * Second option for Visual Recognition API, train your own custom image classification model using Watson Studio: https://github.com/IBM/drones-iot-visual-recognition
+  
+  * Extra Tutorials
+  * Watson Discovery tutorial: https://www.ibm.com/cloud/garage/tutorials/cognitive_discovery/
 
 ## Important Links - Watson sample code and tutorials
 * A.I. Code Patterns: https://developer.ibm.com/patterns/category/artificial-intelligence/?fa=date%3ADESC&fb=
