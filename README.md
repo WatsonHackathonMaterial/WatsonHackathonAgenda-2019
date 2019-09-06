@@ -57,8 +57,10 @@ Agenda for hackathon training using Watson Developer Cloud APIs and IBM Cloud.
   * Visual Recognition Lab with Node Red: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69
     OR 
   * Second option for Visual Recognition API, train your own custom image classification model using Watson Studio: https://github.com/IBM/drones-iot-visual-recognition
-  
-  * Extra Tutorials
+    OR 
+  * Use Tone Analyzer to analyze earning calls transcript
+  https://github.com/djccarew/watson-toneanalyzer-nlu-lab
+    OR
   * Watson Discovery tutorial: https://www.ibm.com/cloud/garage/tutorials/cognitive_discovery/
 
 ## Important Links - Watson sample code and tutorials
