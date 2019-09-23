@@ -45,23 +45,25 @@ Agenda for hackathon training using Watson APIs and IBM Cloud.
   * Video: https://www.youtube.com/watch?v=1A-HZwK8u0w
   * Documentation: https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/ml-overview.html
 
-## Workshop 2 - Hands-on Labs for Watson Visual Recognition and Natural Language Understanding
+## Workshop 2 - Hands-on Labs
 
 > **IMPORTANT**: Log into IBM Cloud (https://cloud.ibm.com/login) or register (https://cloud.ibm.com/registration)
 
 ### Labs
 
-* Set-up node red instructions: https://nodered.org/docs/getting-started/ibmcloud#boilerplate-application
-* Node Red Tutorial Watson Natural Language Understanding Lab: https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
-  OR
-* Visual Recognition Lab with Node Red: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69
-  OR
-* Second option for Visual Recognition API, train your own custom image classification model using Watson Studio: https://github.com/IBM/drones-iot-visual-recognition
-  OR
-* Use Tone Analyzer to analyze earning calls transcript
-https://github.com/djccarew/watson-toneanalyzer-nlu-lab
-  OR
-* Watson Discovery tutorial: https://www.ibm.com/cloud/garage/tutorials/cognitive_discovery/
+* Assistant: https://github.com/lidderupk/watson-assistant-restaurant
+
+* Visual Recognition (Create your own custom model): https://github.com/IBM/drones-iot-visual-recognition
+
+* Tone Analyzer (Analyze earning calls transcript): https://github.com/djccarew/watson-toneanalyzer-nlu-lab
+
+* Discovery: https://www.ibm.com/cloud/garage/tutorials/cognitive_discovery/
+
+* Watson Natural Language Understanding (with Node-RED): https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
+
+* Visual Recognition (with Node-RED): https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69
+
+> **IMPORTANT**: Instructions for setting up Node-RED: https://nodered.org/docs/getting-started/ibmcloud#boilerplate-application
 
 ## Important Links - Watson sample code and tutorials
 
