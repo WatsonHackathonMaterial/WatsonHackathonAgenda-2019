@@ -51,7 +51,7 @@ Agenda for hackathon training using Watson APIs and IBM Cloud.
 
 ### Labs
 
-* Assistant: https://github.com/lidderupk/watson-assistant-restaurant
+* Assistant: https://cloud.ibm.com/docs/services/assistant?topic=assistant-getting-started#getting-started
 
 * Visual Recognition (Create your own custom model): https://github.com/IBM/drones-iot-visual-recognition
 
@@ -76,18 +76,19 @@ Agenda for hackathon training using Watson APIs and IBM Cloud.
 ## Cloud Deployment Options - Kubernetes and Cloud Foundry
 
 1. Install CLI [here](https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli)
-2. Cloud Foundry Runtimes:
-   * [Node JS docs](https://cloud.ibm.com/docs/runtimes/nodejs?topic=Nodejs-getting-started#getting-started)
+
+2. Choose between Cloud Foundry or Kubernetes. [Read about the pros and cons of Cloud Foundry vs Kuberenetes](https://developer.ibm.com/blogs/game-of-cloud-technologies-kubernetes-vs-cloud-foundry/)
+
+3A. Cloud Foundry Runtimes:
+   * [Node JS](https://cloud.ibm.com/docs/runtimes/nodejs?topic=Nodejs-getting-started#getting-started)
    * [Java with Liberty](https://cloud.ibm.com/docs/runtimes/liberty?topic=liberty-getting-started#getting-started)
    * [Python](https://cloud.ibm.com/docs/runtimes/python?topic=Python-getting_started#getting_started)
    * [Go](https://cloud.ibm.com/docs/runtimes/go/getting-started.html#getting-started)
    * [Swift](https://cloud.ibm.com/catalog/starters/runtime-for-swift)
    * [Ruby-on-Rails](https://cloud.ibm.com/docs/runtimes/ruby?topic=Ruby-getting_started#getting_started)
-   * **NOTE**: In addition, Tomcat, .net, and PHP runtime supported and can find documentation [here](https://cloud.ibm.com/catalog?search=cloud%20foundry)
+   * Tomcat, .NET, and PHP runtime support can be found in [IBM Cloud Documentation](https://cloud.ibm.com/catalog?search=cloud%20foundry)
 
-3. OR use Kubernetes to deploy if you can't find your runtime, Kube 101 [here](https://github.com/IBM/kube101/tree/master/workshop)
-
-4. EXTRA FYI, Kubernetes vs. Cloud Foundry: https://developer.ibm.com/blogs/game-of-cloud-technologies-kubernetes-vs-cloud-foundry/
+3B. Use Kubernetes to deploy using containers. Follow the [Kube 101 Workshop](https://github.com/IBM/kube101/tree/master/workshop)
 
 ## Contact Info
 
