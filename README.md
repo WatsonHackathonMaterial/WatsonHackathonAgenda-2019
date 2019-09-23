@@ -79,7 +79,7 @@ Agenda for hackathon training using Watson APIs and IBM Cloud.
 
 2. Choose between Cloud Foundry or Kubernetes. [Read about the pros and cons of Cloud Foundry vs Kuberenetes](https://developer.ibm.com/blogs/game-of-cloud-technologies-kubernetes-vs-cloud-foundry/)
 
-3A. Cloud Foundry Runtimes:
+3. Cloud Foundry Runtimes:
    * [Node JS](https://cloud.ibm.com/docs/runtimes/nodejs?topic=Nodejs-getting-started#getting-started)
    * [Java with Liberty](https://cloud.ibm.com/docs/runtimes/liberty?topic=liberty-getting-started#getting-started)
    * [Python](https://cloud.ibm.com/docs/runtimes/python?topic=Python-getting_started#getting_started)
@@ -88,7 +88,7 @@ Agenda for hackathon training using Watson APIs and IBM Cloud.
    * [Ruby-on-Rails](https://cloud.ibm.com/docs/runtimes/ruby?topic=Ruby-getting_started#getting_started)
    * Tomcat, .NET, and PHP runtime support can be found in [IBM Cloud Documentation](https://cloud.ibm.com/catalog?search=cloud%20foundry)
 
-3B. Use Kubernetes to deploy using containers. Follow the [Kube 101 Workshop](https://github.com/IBM/kube101/tree/master/workshop)
+4. Use Kubernetes to deploy using containers. Follow the [Kube 101 Workshop](https://github.com/IBM/kube101/tree/master/workshop)
 
 ## Contact Info
 
