@@ -77,7 +77,7 @@ Choose one of the following:
 ## Important Links - Watson sample code and tutorials
 
 * A.I. Code Patterns: https://developer.ibm.com/patterns/category/artificial-intelligence/
-* Watson tutorials, & example applications: https://medium.com/ibm-watson-developer-cloud
+* Watson tutorials and sample applications: https://medium.com/ibm-watson-developer-cloud
 * Watson Starter Kits: https://cloud.ibm.com/developer/watson/starter-kits
 * Watson Documentation: https://www.ibm.com/watson/developercloud/doc/index.html
 * Free online courses: https://cognitiveclass.ai/
