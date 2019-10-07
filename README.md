@@ -6,7 +6,7 @@ A workshop for getting to know AI by using Watson APIs and IBM Cloud.
 
 ## Agenda
 
-#### Day 1: Watson APIs / Applied AI
+#### Day 1: Watson Services / Applied AI
 
 | Time | Description |
 | ---- | ----------- |
@@ -25,7 +25,7 @@ A workshop for getting to know AI by using Watson APIs and IBM Cloud.
 | 12:30 – 13:30 | Hands-on Labs |
 | 13:30 – 14:00 | Office Hours |
 
-## Day 1 - Watson APIs
+## Day 1: Watson Services on IBM Cloud
 
 * **Watson Visual Recognition**
   * Video: https://www.youtube.com/watch?v=n3_oGnXkMAE
@@ -58,7 +58,7 @@ A workshop for getting to know AI by using Watson APIs and IBM Cloud.
   * Video: https://www.youtube.com/watch?v=YdVVLWv3Fwo
   * Demo: https://personality-insights-demo.ng.bluemix.net
 
-### Day 1 - Hands-on Labs
+### Day 1: Hands-on Labs
 
 Choose one of the following:
 
@@ -66,7 +66,7 @@ Choose one of the following:
 
 * Discovery: https://www.ibm.com/cloud/garage/tutorials/cognitive_discovery/
 
-## Day 2 - Watson Studio
+## Day 2: Watson Studio
 
 * **Watson Studio**
   * Video: https://www.youtube.com/watch?v=MfH6T6J1_Jo
@@ -79,7 +79,7 @@ Choose one of the following:
   * Video: https://www.youtube.com/watch?v=JVxTQnRiAsc
   * Documentation: https://cloud.ibm.com/docs/services/ai-openscale/getting-started.html
 
-### Day 2 - Hands-on Labs
+### Day 2: Hands-on Labs
 
 * Visualizing Data with Watson Studio: https://github.com/IBM/visualize-data-with-python
 
@@ -95,7 +95,7 @@ Choose one of the following:
 
 > **IMPORTANT**: Instructions for setting up Node-RED: https://nodered.org/docs/getting-started/ibmcloud#boilerplate-application
 
-## Important Links - Watson sample code and tutorials
+## Important Links: Watson sample code and tutorials
 
 * A.I. Code Patterns: https://developer.ibm.com/patterns/category/artificial-intelligence/
 * Watson tutorials and sample applications: https://medium.com/ibm-watson-developer-cloud
@@ -103,7 +103,7 @@ Choose one of the following:
 * Watson Documentation: https://www.ibm.com/watson/developercloud/doc/index.html
 * Free online courses: https://cognitiveclass.ai/
 
-## Cloud Deployment Options - Kubernetes and Cloud Foundry
+## Cloud Deployment Options: Kubernetes and Cloud Foundry
 
 1. Install CLI [here](https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli)
 
