@@ -4,6 +4,27 @@ A workshop for getting to know AI by using Watson APIs and IBM Cloud.
 
 > **IMPORTANT**: Log into IBM Cloud (https://cloud.ibm.com/login) or register (https://cloud.ibm.com/registration)
 
+## Agenda
+
+#### Day 1: Watson APIs / Applied AI
+
+| Time | Description |
+| ---- | ----------- |
+| 12:00 – 12:10 | Lecture: Introduction |
+| 12:10 – 12:30 | Demo: Watson Services on IBM Cloud |
+| 12:30 – 13:30 | Hands-on Labs |
+| 13:30 – 14:00 | Office Hours |
+
+#### Day 2: Watson Studio / Data Science
+
+| Time | Description |
+| ---- | ----------- |
+| 12:00 – 12:10 | Lecture: Introduction |
+| 12:10 – 12:20 | Demo: Creating a custom model with Watson Visual Recognition |
+| 12:20 – 12:30 | Demo: Visualizing data with Watson Studio |
+| 12:30 – 13:30 | Hands-on Labs |
+| 13:30 – 14:00 | Office Hours |
+
 ## Day 1 - Watson APIs
 
 * **Watson Visual Recognition**
