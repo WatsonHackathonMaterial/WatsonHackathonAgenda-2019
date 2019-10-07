@@ -43,8 +43,6 @@ Choose one of the following:
 
 * Assistant: https://cloud.ibm.com/docs/services/assistant?topic=assistant-getting-started#getting-started
 
-* Visual Recognition: https://github.com/IBM/drones-iot-visual-recognition
-
 * Discovery: https://www.ibm.com/cloud/garage/tutorials/cognitive_discovery/
 
 ## Day 2 - Watson Studio
@@ -64,9 +62,11 @@ Choose one of the following:
 
 * Visualizing Data with Watson Studio: https://github.com/IBM/visualize-data-with-python
 
+* Visual Recognition: https://github.com/IBM/drones-iot-visual-recognition
+
 ## Additional Hands-on Labs
 
-* Tone Analyzer (Analyze earning calls transcript): https://github.com/djccarew/watson-toneanalyzer-nlu-lab
+* Tone Analyzer: https://github.com/djccarew/watson-toneanalyzer-nlu-lab
 
 * Watson Natural Language Understanding (with Node-RED): https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
 
