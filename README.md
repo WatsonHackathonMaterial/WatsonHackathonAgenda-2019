@@ -123,3 +123,5 @@ Choose one of the following:
 ## Contact Info
 
 * [helen.lam@ibm.com](helen.lam@ibm.com) | [@helennnsays](http://twitter.com/helennnsays)
+* [stevemar@ca.ibm.com](stevemar@ca.ibm.com) | [@stevebot](http://twitter.com/stevebot)
+
