@@ -85,6 +85,8 @@ Choose one of the following:
 
 * Visual Recognition: https://github.com/IBM/drones-iot-visual-recognition
 
+* **used in demo**: Watson Machine Learning: https://github.com/IBM/predictive-model-on-watson-ml
+
 ## Additional Hands-on Labs
 
 * Tone Analyzer: https://github.com/djccarew/watson-toneanalyzer-nlu-lab
