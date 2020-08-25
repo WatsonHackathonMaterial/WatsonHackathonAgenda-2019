@@ -25,7 +25,7 @@ A workshop for getting to know AI by using Watson APIs and IBM Cloud.
 | 12:30 – 13:30 | Hands-on Labs |
 | 13:30 – 14:00 | Office Hours |
 
-## Day 1: Watson Services on IBM Cloud
+## Day 1: Watson Services on IBM Cloud Links and Info
 
 * **Watson Visual Recognition**
   * Video: https://www.youtube.com/watch?v=n3_oGnXkMAE
@@ -59,15 +59,7 @@ A workshop for getting to know AI by using Watson APIs and IBM Cloud.
   * Video: https://www.youtube.com/watch?v=YdVVLWv3Fwo
   * Demo: https://personality-insights-demo.ng.bluemix.net
 
-### Day 1: Hands-on Labs
-
-Choose one of the following:
-
-* Watson Assistant build a chat bot: https://cloud.ibm.com/docs/services/assistant?topic=assistant-getting-started#getting-started
-
-* Watson Discovery, Query English Language Article and Build a Custom Domain: https://www.ibm.com/cloud/garage/tutorials/cognitive_discovery/
-
-## Day 2: Watson Studio
+## Day 2: Watson Studio Overview Links
 
 * **Watson Studio**
   * Video: https://www.youtube.com/watch?v=MfH6T6J1_Jo
@@ -96,6 +88,10 @@ Choose one of the following:
 **IMPORTANT**: Instructions for setting up Node-RED: https://nodered.org/docs/getting-started/ibmcloud#boilerplate-application
 
 * Deploy a model to predict heart failure with Watson Machine Learning Tutorial: https://github.com/IBM/predictive-model-on-watson-ml
+
+* Watson Assistant build a chat bot: https://cloud.ibm.com/docs/services/assistant?topic=assistant-getting-started#getting-started
+
+* Watson Discovery, Query English Language Article and Build a Custom Domain: https://www.ibm.com/cloud/garage/tutorials/cognitive_discovery/
 
 ## Important Links: Watson sample code and tutorials
 
