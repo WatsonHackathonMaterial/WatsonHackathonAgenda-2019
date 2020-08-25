@@ -63,9 +63,9 @@ A workshop for getting to know AI by using Watson APIs and IBM Cloud.
 
 Choose one of the following:
 
-* Assistant: https://cloud.ibm.com/docs/services/assistant?topic=assistant-getting-started#getting-started
+* Watson Assistant build a chat bot: https://cloud.ibm.com/docs/services/assistant?topic=assistant-getting-started#getting-started
 
-* Discovery: https://www.ibm.com/cloud/garage/tutorials/cognitive_discovery/
+* Watson Discovery, Query English Language Article and Build a Custom Domain: https://www.ibm.com/cloud/garage/tutorials/cognitive_discovery/
 
 ## Day 2: Watson Studio
 
