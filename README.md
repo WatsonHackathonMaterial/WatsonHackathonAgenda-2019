@@ -80,23 +80,22 @@ Choose one of the following:
   * Video: https://www.youtube.com/watch?v=JVxTQnRiAsc
   * Documentation: https://cloud.ibm.com/docs/services/ai-openscale/getting-started.html
 
-### Day 2: Hands-on Labs
+### Hands-on Labs
 
 * Visualizing Data with Watson Studio: https://github.com/IBM/visualize-data-with-python
 
-* Visual Recognition: https://github.com/IBM/drones-iot-visual-recognition
+* Visual Recognition/Image Classification Tutorial: https://github.com/IBM/drones-iot-visual-recognition
 
-* **used in demo**: Watson Machine Learning: https://github.com/IBM/predictive-model-on-watson-ml
+* Second Visual Recognition (with Node-RED) Tutorial: https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69
 
-## Additional Hands-on Labs
 
-* Tone Analyzer: https://github.com/djccarew/watson-toneanalyzer-nlu-lab
+* Watson Tone Analyzer (detect sentiment): https://github.com/djccarew/watson-toneanalyzer-nlu-lab
 
 * Watson Natural Language Understanding (with Node-RED): https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
 
-* Visual Recognition (with Node-RED): https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69
+**IMPORTANT**: Instructions for setting up Node-RED: https://nodered.org/docs/getting-started/ibmcloud#boilerplate-application
 
-> **IMPORTANT**: Instructions for setting up Node-RED: https://nodered.org/docs/getting-started/ibmcloud#boilerplate-application
+* Deploy a model to predict heart failure with Watson Machine Learning Tutorial: https://github.com/IBM/predictive-model-on-watson-ml
 
 ## Important Links: Watson sample code and tutorials
 
