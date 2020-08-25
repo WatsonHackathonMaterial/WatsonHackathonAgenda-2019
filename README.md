@@ -31,6 +31,7 @@ A workshop for getting to know AI by using Watson APIs and IBM Cloud.
   * Video: https://www.youtube.com/watch?v=n3_oGnXkMAE
   * Demo: https://www.ibm.com/watson/services/visual-recognition/demo/#demo
   * Learning Path: https://developer.ibm.com/series/learning-path-watson-visual-recognition
+  * Tutorial step-by-step: https://github.com/IBM/drones-iot-visual-recognition
 * **Watson Discovery**
   * Video: https://www.youtube.com/watch?v=9ks-cEG6KPs
   * Demo: https://discovery-news-demo.ng.bluemix.net
