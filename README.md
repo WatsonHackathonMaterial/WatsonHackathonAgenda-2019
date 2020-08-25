@@ -72,7 +72,7 @@ A workshop for getting to know AI by using Watson APIs and IBM Cloud.
   * Video: https://www.youtube.com/watch?v=JVxTQnRiAsc
   * Documentation: https://cloud.ibm.com/docs/services/ai-openscale/getting-started.html
 
-### Hands-on Labs
+## Hands-on Labs
 
 * Visualizing Data with Watson Studio: https://github.com/IBM/visualize-data-with-python
 
